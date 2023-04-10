@@ -1,1 +1,1 @@
-﻿int ReadInt(string message);
+﻿
